@@ -52,16 +52,32 @@
 
 ## 📊 Modern GitHub & LeetCode Stats
 
+<!-- GitHub Stats Row -->
 <p align="center">
-  <!-- GitHub Stats (modern theme, rounded, no border) -->
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=venmugilrajan&show_icons=true&theme=radical&border_radius=20&hide_border=true&include_all_commits=true&rank_icon=percentile" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=venmugilrajan&layout=compact&theme=radical&border_radius=20&hide_border=true" />
+  <!-- Main GitHub Stats (transparent, clean) -->
+  <img
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=venmugilrajan&show_icons=true&theme=transparent&border_radius=22&hide_border=false&include_all_commits=true&rank_icon=percentile&show=reviews,discussions_started,prs_merged"
+  />
 </p>
 
 <p align="center">
-  <!-- LeetCode Stats (modern card, no border, rounded, dark theme) -->
+  <!-- Languages as donut chart (modern) -->
+  <img
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=venmugilrajan&layout=donut&theme=transparent&border_radius=22&hide_border=false&size_weight=0.5&count_weight=0.5"
+  />
+</p>
+
+---
+
+<!-- LeetCode row -->
+<p align="center">
   <a href="https://leetcode.com/u/Venmugilrajans/">
-    <img src="https://leetcard.jacoblin.cool/Venmugilrajans?theme=dark&border=0&radius=20&font=JetBrains%20Mono&ext=activity" alt="LeetCode Stats" />
+    <img
+      src="https://leetcard.jacoblin.cool/Venmugilrajans?theme=unicorn&border=0&radius=24&font=JetBrains%20Mono&ext=activity&hide=total-solved-text"
+      alt="LeetCode Stats"
+    />
   </a>
 </p>
 
