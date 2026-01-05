@@ -35,9 +35,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=venmugilrajan&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venmugilrajan&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=venmugilrajan&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=venmugilrajan&layout=compact&theme=tokyonight" />
 </p>
+
 
 
 ---
