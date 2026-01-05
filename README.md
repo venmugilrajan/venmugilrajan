@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm GOKUL V</h1>
+<h1 align="center">Hi 👋, I'm VENMUGIL RAKAN S</h1>
 <h3 align="center">2nd year student in Artificial Intelligence and Data Science</h3>
 
 <!-- Coder GIF Right Side -->
