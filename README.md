@@ -1,9 +1,4 @@
-<!-- Profile Header with Layout -->
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
-
-  <!-- Left: Text block -->
-  <div style="flex: 1;">
-
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm VENMUGIL RAJAN S</h1>
 
 <p align="center">
@@ -14,6 +9,11 @@
 
 <h3 align="center">Computer Science and Engineering Student</h3>
 
+<!-- Banner GIF (full width inside content) -->
+<p align="center">
+  <img alt="coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; width: 100%; height: auto; border-radius: 16px;">
+</p>
+
 <!-- Short Intro -->
 - 🔭 Currently learning **Web Development & Full Stack Development**
 - 🎓 Pursuing **B.E Computer Science and Engineering**
@@ -21,15 +21,6 @@
 - 💡 Love building **web apps, clean UIs, and interactive experiences**
 - 📫 How to reach me: **[venmugilrajans@gmail.com](mailto:venmugilrajans@gmail.com)**
 - ⚡ Fun fact: **Debugging is part of the daily routine**
-
-  </div>
-
-  <!-- Right: Coder GIF fixed column -->
-  <div style="flex-shrink: 0;">
-    <img alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-  </div>
-
-</div>
 
 ---
 
@@ -40,7 +31,7 @@
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io-badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
