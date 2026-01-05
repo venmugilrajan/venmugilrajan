@@ -1,34 +1,29 @@
 <div align="center">
 
-<!-- TERMINAL STYLE NAME -->
-<pre style="color:#39ff14; font-size:34px; font-weight:700; font-family:monospace;">
-Hi, I'm Venmugil ^_^
-</pre>
+<!-- TERMINAL STYLE HEADING -->
+<h1>
+  <span style="color:#39ff14; font-family:monospace;">
+    Hi, I'm Venmugil ^_^
+  </span>
+</h1>
 
-<!-- SUB TITLE -->
-<pre style="color:#00bfff; font-size:18px; font-family:monospace;">
-Future Full Stack Developer
-</pre>
+<h3>
+  <span style="color:#00bfff; font-family:monospace;">
+    Future Full Stack Developer
+  </span>
+</h3>
 
 <br/>
 
-<!-- ANIMATED PIXEL ART -->
+<!-- ANIMATED PIXEL ROOM GIF (WORKING) -->
 <img 
   src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/night.gif" 
-  width="900" 
-  alt="pixel developer room animation"
+  alt="Animated developer room"
+  width="900"
 />
 
-</div>
+<br/><br/>
 
-
----
-
-<!-- OPTIONAL SMALL FOOTER -->
-<div align="center">
-
-<sub style="color:gray;">
-coding • learning • building
-</sub>
+<sub>coding • learning • building</sub>
 
 </div>
