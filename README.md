@@ -24,22 +24,45 @@
 
 ### 💻 Technical Skills
 
-- **Programming Languages:** Java, C, JavaScript, PHP  
-- **Web Technologies:** HTML, CSS  
-- **Database:** MySQL  
-- **Tools & Platforms:** Git, GitHub, VS Code, Figma  
+#### Languages & Web
+
+<p>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+#### Database & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
 - **Interests:** Full Stack Development, UI/UX Design, Problem Solving  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub & LeetCode Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=venmugilrajan&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=venmugilrajan&layout=compact&theme=tokyonight" />
+  <!-- GitHub Stats -->
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=venmugilrajan&show_icons=true&theme=tokyonight&border_radius=15&hide_border=false" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=venmugilrajan&layout=compact&theme=tokyonight&border_radius=15&hide_border=false" />
 </p>
 
-
+<p align="center">
+  <!-- LeetCode Stats Card -->
+  <a href="https://leetcode.com/u/Venmugilrajans/">
+    <img src="https://leetcard.jacoblin.cool/Venmugilrajans?theme=dark&font=JetBrains%20Mono&radius=15" alt="LeetCode Stats" />
+  </a>
+</p>
 
 ---
 
