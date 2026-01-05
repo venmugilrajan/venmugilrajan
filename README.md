@@ -74,14 +74,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=venmugilrajan&theme=tokyonight&hide_border=false&border_radius=20"
-    alt="GitHub Streak"
-  />
-</p>
-
 ---
 
 ## 💡 LeetCode Progress (Clean Card)
