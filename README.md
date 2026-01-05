@@ -29,6 +29,7 @@
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -49,18 +50,18 @@
 
 ---
 
-## 📊 GitHub & LeetCode Stats
+## 📊 Modern GitHub & LeetCode Stats
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=venmugilrajan&show_icons=true&theme=tokyonight&border_radius=15&hide_border=false" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=venmugilrajan&layout=compact&theme=tokyonight&border_radius=15&hide_border=false" />
+  <!-- GitHub Stats (modern theme, rounded, no border) -->
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=venmugilrajan&show_icons=true&theme=radical&border_radius=20&hide_border=true&include_all_commits=true&rank_icon=percentile" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=venmugilrajan&layout=compact&theme=radical&border_radius=20&hide_border=true" />
 </p>
 
 <p align="center">
-  <!-- LeetCode Stats Card -->
+  <!-- LeetCode Stats (modern card, no border, rounded, dark theme) -->
   <a href="https://leetcode.com/u/Venmugilrajans/">
-    <img src="https://leetcard.jacoblin.cool/Venmugilrajans?theme=dark&font=JetBrains%20Mono&radius=15" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Venmugilrajans?theme=dark&border=0&radius=20&font=JetBrains%20Mono&ext=activity" alt="LeetCode Stats" />
   </a>
 </p>
 
