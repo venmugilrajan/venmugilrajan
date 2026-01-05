@@ -12,11 +12,12 @@
 <!-- Banner Image (balanced width) -->
 <p align="center">
   <img
-    alt="coding desk"
-    src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/im-coding.gif"
+    alt="deep focus coding"
+    src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/deep-focus.gif"
     style="max-width: 420px; width: 100%; height: auto; border-radius: 18px;"
   >
 </p>
+
 
 
 <!-- Short Intro -->
