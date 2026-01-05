@@ -50,32 +50,46 @@
 
 ---
 
-## 📊 Modern GitHub & LeetCode Stats
+## 🏆 GitHub Trophies
 
-<!-- GitHub Stats Row -->
 <p align="center">
-  <!-- Main GitHub Stats (transparent, clean) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=venmugilrajan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📊 GitHub Stats (Modern Dark)
+
+<p align="center">
   <img
     height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=venmugilrajan&show_icons=true&theme=transparent&border_radius=22&hide_border=false&include_all_commits=true&rank_icon=percentile&show=reviews,discussions_started,prs_merged"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=venmugilrajan&show_icons=true&theme=tokyonight&border_radius=20&hide_border=false&include_all_commits=true&rank_icon=percentile"
   />
 </p>
 
 <p align="center">
-  <!-- Languages as donut chart (modern) -->
   <img
     height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=venmugilrajan&layout=donut&theme=transparent&border_radius=22&hide_border=false&size_weight=0.5&count_weight=0.5"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=venmugilrajan&layout=compact&theme=tokyonight&border_radius=20&hide_border=false"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=venmugilrajan&theme=tokyonight&hide_border=false&border_radius=20"
+    alt="GitHub Streak"
   />
 </p>
 
 ---
 
-<!-- LeetCode row -->
+## 💡 LeetCode Progress (Clean Card)
+
 <p align="center">
   <a href="https://leetcode.com/u/Venmugilrajans/">
     <img
-      src="https://leetcard.jacoblin.cool/Venmugilrajans?theme=unicorn&border=0&radius=24&font=JetBrains%20Mono&ext=activity&hide=total-solved-text"
+      src="https://leetcard.jacoblin.cool/Venmugilrajans?theme=dark&border=1&radius=18&font=JetBrains%20Mono&ext=activity&width=650"
       alt="LeetCode Stats"
     />
   </a>
