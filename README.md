@@ -9,15 +9,14 @@
 
 <h3 align="center">Computer Science and Engineering Student</h3>
 
-<!-- Banner Image (balanced width) -->
+<!-- Banner Image (max column width) -->
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/working_4.gif"
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3M4c3Zua2hoYzRuc3kzMzB5bWFuMjc5ZjJvZWUzbWVjY3F6b2RlZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y4ak9Ki2GZCbJxAnJD/giphy.gif"
     alt="coding desk"
-    width="420"
+    width="900"
   />
 </p>
-
 
 <!-- Short Intro -->
 - 🔭 Currently learning **Web Development & Full Stack Development**
@@ -26,7 +25,6 @@
 - 💡 Love building **web apps, clean UIs, and interactive experiences**
 - 📫 How to reach me: **[venmugilrajans@gmail.com](mailto:venmugilrajans@gmail.com)**
 - ⚡ Fun fact: **Debugging is part of the daily routine**
-
 
 ---
 
