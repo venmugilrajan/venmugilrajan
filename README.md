@@ -9,9 +9,24 @@
 
 <h3 align="center">Computer Science and Engineering Student</h3>
 
-<!-- Banner GIF (full width inside content) -->
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm VENMUGIL RAJAN S</h1>
+
 <p align="center">
-  <img alt="coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; width: 100%; height: auto; border-radius: 16px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Computer+Science+and+Engineering+Student;Full+Stack+Developer+in+Progress;Web+Development+%7C+UI%2FUX+Design+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
+
+<h3 align="center">Computer Science and Engineering Student</h3>
+
+<!-- Banner Image (balanced width) -->
+<p align="center">
+  <img
+    alt="coding"
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    style="max-width: 420px; width: 100%; height: auto; border-radius: 18px;"
+  >
 </p>
 
 <!-- Short Intro -->
@@ -21,6 +36,7 @@
 - 💡 Love building **web apps, clean UIs, and interactive experiences**
 - 📫 How to reach me: **[venmugilrajans@gmail.com](mailto:venmugilrajans@gmail.com)**
 - ⚡ Fun fact: **Debugging is part of the daily routine**
+
 
 ---
 
