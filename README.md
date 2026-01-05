@@ -1,5 +1,12 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm VENMUGIL RAKAN S</h1>
+<h1 align="center">Hi 👋, I'm VENMUGIL RAJAN S</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=2nd+year+AI+%26+DS+Student;Machine+Learning+%7C+Data+Science+Enthusiast;Salesforce+%7C+Cloud+%7C+Full+Stack+Learner" alt="Typing SVG" />
+  </a>
+</p>
+
 <h3 align="center">2nd year student in Artificial Intelligence and Data Science</h3>
 
 <!-- Coder GIF Right Side -->
