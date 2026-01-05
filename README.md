@@ -9,17 +9,6 @@
 
 <h3 align="center">Computer Science and Engineering Student</h3>
 
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm VENMUGIL RAJAN S</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Computer+Science+and+Engineering+Student;Full+Stack+Developer+in+Progress;Web+Development+%7C+UI%2FUX+Design+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
-
-<h3 align="center">Computer Science and Engineering Student</h3>
-
 <!-- Banner Image (balanced width) -->
 <p align="center">
   <img
