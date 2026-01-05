@@ -12,11 +12,12 @@
 <!-- Banner Image (balanced width) -->
 <p align="center">
   <img
-    alt="coding"
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    alt="coding desk"
+    src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/im-coding.gif"
     style="max-width: 420px; width: 100%; height: auto; border-radius: 18px;"
   >
 </p>
+
 
 <!-- Short Intro -->
 - 🔭 Currently learning **Web Development & Full Stack Development**
