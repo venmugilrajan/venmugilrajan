@@ -50,15 +50,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=venmugilrajan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📊 GitHub Stats (Modern Dark)
+## 📊 GitHub Stats
 
 <p align="center">
   <img
@@ -76,7 +68,7 @@
 
 ---
 
-## 💡 LeetCode Progress (Clean Card)
+## 💡 LeetCode Progress
 
 <p align="center">
   <a href="https://leetcode.com/u/Venmugilrajans/">
