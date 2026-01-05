@@ -1,93 +1,66 @@
 <h1 align="center">Hi 👋, I'm Venmugil Rajan S</h1>
-<h3 align="center">Full-Stack Developer | UI/UX Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=venmugilrajan&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Problem+Solver;Building+Real-World+Projects" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=venmugilrajan&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+---
+
+## 👋 Nice to Meet You!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQ3b3J4dTFuZGp5cHRjM3h4Zzd6OWw0b2Flb2g3N3l1emRkM3Z2NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="220" />
+</p>
+
+<p align="center">
+  <b>👋 Hey there! Glad you're here.</b><br/>
+  Let’s connect, collaborate, and build something amazing.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Passionate about **Web Development & UI/UX Design**
-- 💻 Building real-world **Full-Stack Projects**
-- 🔭 Currently working on **Scalable Web Applications**
-- 🌱 Learning **Advanced JavaScript, Backend Architecture & System Design**
-- 🧠 Interested in **DSA & Problem Solving**
-- ⚡ Fun fact: *I love clean UI more than dark mode* 😄
+- 🎓 Passionate about **Web Development & UI/UX**
+- 💻 Full-Stack Developer
+- 🌱 Learning **Advanced JS, Backend Systems & DSA**
+- ⚡ Loves clean UI & meaningful code
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ⚙️ Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🧠 Programming
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-
-### 🎨 UI / Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-
----
-
-## 📌 Featured Projects
-
-🔹 **Automated Leave Management System**  
-Role-based system for students & teachers with approval workflow.
-
-🔹 **Digit Recognizer (CNN)**  
-Web app that predicts handwritten digits using Machine Learning.
-
-🔹 **Employee Salary Prediction**  
-ML-based salary estimation using real-world datasets.
-
-🔹 **Modern UI Portfolio Website**  
-Minimal, animated, responsive portfolio with pure HTML & CSS.
+**Frontend:** HTML • CSS • JavaScript  
+**Backend:** PHP • MySQL  
+**Programming:** Java • C  
+**Tools:** Git • GitHub • VS Code • Figma
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venmugilrajan&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venmugilrajan&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=venmugilrajan&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venmugilrajan&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-## 🧩 Most Used Languages
+## 🤝 Let’s Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venmugilrajan&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/venmugilrajan">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github"/>
-  </a>
   <a href="mailto:venmugilrajan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
   </a>
+  <a href="https://github.com/venmugilrajan">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
 
-## 💡 Quote I Live By
-
-> *“Code is not just written to work — it’s written to last.”*
-
-⭐ **Star my repositories if you find them useful!**
+⭐ *If you like my work, consider starring my repositories!*
