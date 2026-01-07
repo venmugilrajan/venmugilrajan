@@ -9,15 +9,15 @@
 
 <h3 align="center">Computer Science and Engineering Student</h3>
 
-<!-- Banner Image (max column width) -->
+<!-- Animated Pixel Banner -->
 <p align="center">
   <img
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3M4c3Zua2hoYzRuc3kzMzB5bWFuMjc5ZjJvZWUzbWVjY3F6b2RlZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y4ak9Ki2GZCbJxAnJD/giphy.gif"
-    alt="coding desk"
-    width="900"
-    height="450"
+    src="banner.gif"
+    alt="Pixel Developer Workspace"
+    style="width:100%; max-width:1200px; height:auto;"
   />
 </p>
+
 
 <!-- Short Intro -->
 - 🔭 Currently learning **Web Development & Full Stack Development**
