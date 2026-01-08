@@ -1,4 +1,3 @@
-<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm VENMUGIL RAJAN S</h1>
 
 <p align="center">
@@ -9,7 +8,6 @@
 
 <h3 align="center">Computer Science and Engineering Student</h3>
 
-<!-- Animated Pixel Banner -->
 <p align="center">
   <img
     src="banner1.gif"
@@ -19,7 +17,6 @@
 </p>
 
 
-<!-- Short Intro -->
 - 🔭 Currently learning **Web Development & Full Stack Development**
 - 🎓 Pursuing **B.E Computer Science and Engineering**
 - 🌱 Exploring **UI/UX Design, Problem Solving & DSA**
@@ -31,27 +28,25 @@
 
 ### 💻 Technical Skills
 
-#### Languages & Web
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+  <h4>Languages & Web</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,c,py,js,php,html,css&theme=dark" alt="My Skills" />
+    </a>
+  </p>
 
-#### Database & Tools
+  <h4>Database & Tools</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma&theme=dark" alt="My Tools" />
+    </a>
+  </p>
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+</div>
+
+<br/>
 
 - **Interests:** Full Stack Development, UI/UX Design, Problem Solving  
 
