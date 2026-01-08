@@ -12,7 +12,7 @@
 <!-- Animated Pixel Banner -->
 <p align="center">
   <img
-    src="banner.gif"
+    src="banner1.gif"
     alt="Pixel Developer Workspace"
     style="width:100%; max-width:1200px; height:auto;"
   />
