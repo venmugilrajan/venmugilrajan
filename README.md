@@ -16,7 +16,6 @@
   />
 </p>
 
-
 - 🔭 Currently learning **Web Development & Full Stack Development**
 - 🎓 Pursuing **B.E Computer Science and Engineering**
 - 🌱 Exploring **UI/UX Design, Problem Solving & DSA**
@@ -70,19 +69,6 @@
 
 ---
 
-## 💡 LeetCode Progress
-
-<p align="center">
-  <a href="https://leetcode.com/u/Venmugilrajans/">
-    <img
-      src="https://leetcard.jacoblin.cool/Venmugilrajans?theme=dark&border=1&radius=18&font=JetBrains%20Mono&ext=activity&width=650"
-      alt="LeetCode Stats"
-    />
-  </a>
-</p>
-
----
-
 ## 🧊 3D Contribution Calendar
 
 <p align="center">
@@ -110,8 +96,5 @@
   </a>
   <a href="https://github.com/venmugilrajan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/Venmugilrajans/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
