@@ -6,14 +6,17 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://venmugilrajans.vercel.app">
-    <img src="./octacat.png" width="100" alt="Octocat">
-  </a>
 </p>
 
 <h3 align="center">Computer Science and Engineering Student</h3>
 
+<p align="center">
+  <img
+    src="banner1.gif"
+    alt="Pixel Developer Workspace"
+    style="width:100%; max-width:1200px; height:auto;"
+  />
+</p>  
 
 - 🔭 Currently learning **Web Development & Full Stack Development**
 - 🎓 Pursuing **B.E Computer Science and Engineering**
