@@ -6,6 +6,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://venmugilrajans.vercel.app">
+    <img src="./octacat.png" width="100" alt="Octocat">
+  </a>
+</p>
+
 <h3 align="center">Computer Science and Engineering Student</h3>
 
 <p align="center">
