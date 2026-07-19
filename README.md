@@ -6,8 +6,6 @@
   </a>
 </p>
 
-</p>
-
 <h3 align="center">Computer Science and Engineering Student</h3>
 
 <p align="center">
@@ -30,40 +28,48 @@
 ### 💻 Technical Skills
 
 <div align="center">
-Languages
+
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=c,java,py&theme=dark" alt="Languages" />
-<br/>
-Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,tailwind,php&theme=dark" alt="Web Development" />
-<br/>
-Machine Learning / AI
+**Web Development**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy&theme=dark" alt="Machine Learning and AI" />
-<br/>
-Databases & Tools
+<img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,tailwind,php,nextjs&theme=dark" alt="Web Development" />
+
+**Machine Learning / AI**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" alt="Machine Learning and AI" />
+
+**Databases & Tools**
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,postman,vscode,figma&theme=dark" alt="Databases and Tools" />
+
 </div>
+
 <br/>
+
 <p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-2C3E50?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Development-00C4FF?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00C4FF?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-00C4FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/REST%20APIs-00C4FF?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/CNN%20%7C%20LSTM-00C4FF?style=for-the-badge" />
 </p>
 
 <br/>
-
-- **Interests:** Full Stack Development, UI/UX Design, Problem Solving  
-
+ 
 ---
 
 ## 📊 GitHub Stats
