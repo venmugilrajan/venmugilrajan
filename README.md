@@ -30,22 +30,35 @@
 ### 💻 Technical Skills
 
 <div align="center">
+Languages
 
-  <h4>Languages & Web</h4>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,c,py,js,php,html,css&theme=dark" alt="My Skills" />
-    </a>
-  </p>
+<img src="https://skillicons.dev/icons?i=c,java,py&theme=dark" alt="Languages" />
+<br/>
+Web Development
 
-  <h4>Database & Tools</h4>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma&theme=dark" alt="My Tools" />
-    </a>
-  </p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,tailwind,php&theme=dark" alt="Web Development" />
+<br/>
+Machine Learning / AI
 
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy&theme=dark" alt="Machine Learning and AI" />
+<br/>
+Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,postman,vscode,figma&theme=dark" alt="Databases and Tools" />
 </div>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-00C4FF?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00C4FF?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-00C4FF?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
 <br/>
 
