@@ -159,44 +159,11 @@ I'm a Computer Science and Engineering student from Erode, Tamil Nadu, who is ge
   </picture>
 </p>
 
-> ⚠️ **This shows broken until you complete a one-time setup** (the `output` branch and SVG file don't exist yet — they only get created after the Action below runs once):
-> 1. Create a repo named **exactly** `venmugilrajan` (same as your username) if it doesn't already exist — this special repo is what powers your profile README.
-> 2. Inside it, create the file `.github/workflows/snake.yml` and paste in the workflow below.
-> 3. Push it, then go to the **Actions** tab of that repo and run the `generate-snake` workflow once manually (or wait for the daily schedule).
-> 4. Once it runs, the `output` branch and SVG will exist, and the image above will render automatically.
 
 ```yaml
-name: generate-snake
 
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs once a day
-  workflow_dispatch: {}    # lets you trigger it manually from the Actions tab
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: venmugilrajan
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
----
 
 ## 🗓️ Contribution Activity
 
