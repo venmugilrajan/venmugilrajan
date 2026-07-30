@@ -159,11 +159,7 @@ I'm a Computer Science and Engineering student from Erode, Tamil Nadu, who is ge
   </picture>
 </p>
 
-
-```yaml
-
-```
-
+---
 
 ## 🗓️ Contribution Activity
 
@@ -192,8 +188,6 @@ I'm a Computer Science and Engineering student from Erode, Tamil Nadu, who is ge
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   </a>
 </p>
-
-
 
 <p align="center">
   <i>Thanks for stopping by — always excited to connect, collaborate, and build something great together! 🚀</i>
